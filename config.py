@@ -1,0 +1,8 @@
+telebot_token = '6231553728:AAHoYK6Pu1hA4SmUySRT1e4-RgAt-QJhLxM'
+registration_list = '1_TkEaXH406dsfVVVHqdV9dJnpIzjQYZAihPTj7AQUsc'
+tabel = '1uEwyv6n1f8CMcebX4jgiFyHLkIC8PLT1NpjXZ2EbDig'
+spreadsheet_link = '1HM9BKg_A9KVTMne9GYjl8EP7UvdbYo3ayWXkPxBsZZQ'
+spreadsheet_link_worksheet_title = 'sheet'
+syllabus = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTQx3Es1mWT5s9PPbZBW9Wi0BdVm7qqXiHe6-EFSygYovcZ0AvdZFYjd2aTOrmQhg/pubhtml?gid=1842280606&single=true'
+admin_gmail = 'admin'
+admin_password = 'admin'
